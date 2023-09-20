@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Предметы/Информатика  ",
+      "color": {
+        "a": 1,
+        "rgb": 5787135
+      }
+    },
+    {
+      "query": "path:\"Предметы/Математический анализ\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Предметы/Алгебра и геометрия\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Предметы/Основы программирования\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2734043
+      }
+    },
+    {
+      "query": "path:Преподаватели  ",
+      "color": {
+        "a": 1,
+        "rgb": 16056451
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.08893229166667,
+  "lineSizeMultiplier": 0.808203125,
+  "collapse-forces": true,
+  "centerStrength": 0.311197916666667,
+  "repelStrength": 20,
+  "linkStrength": 0.540364583333333,
+  "linkDistance": 30,
+  "scale": 0.04231590268975925,
+  "close": false
+}

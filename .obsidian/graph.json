@@ -18,28 +18,28 @@
       "query": "path:\"Предметы/Математический анализ\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
       "query": "path:\"Предметы/Алгебра и геометрия\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 65280
       }
     },
     {
       "query": "path:\"Предметы/Основы программирования\"  ",
       "color": {
         "a": 1,
-        "rgb": 2734043
+        "rgb": 4369151
       }
     },
     {
-      "query": "path:Преподаватели  ",
+      "query": "path:\"Предметы/Дискретная математика\"  ",
       "color": {
         "a": 1,
-        "rgb": 16056451
+        "rgb": 5431443
       }
     }
   ],
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1.08893229166667,
   "lineSizeMultiplier": 0.808203125,
   "collapse-forces": true,
-  "centerStrength": 0.40625,
+  "centerStrength": 0.578125,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.04231590268975992,
-  "close": true
+  "linkDistance": 223,
+  "scale": 0.042315902689760966,
+  "close": false
 }

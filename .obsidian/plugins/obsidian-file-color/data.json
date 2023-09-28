@@ -1,0 +1,56 @@
+{
+  "palette": [
+    {
+      "id": "pI2MQEdwcnvCDrSUJ9Dbg",
+      "name": "",
+      "value": "#00ff00"
+    },
+    {
+      "id": "aguDj7bSbttb_ZZAe5N58",
+      "name": "",
+      "value": "#584dff"
+    },
+    {
+      "id": "SQdKvtJNTJn7U30qagMY2",
+      "name": "",
+      "value": "#ff0000"
+    },
+    {
+      "id": "6LFn-6IFa7es1DCUFRh_y",
+      "name": "",
+      "value": "#ffff00"
+    },
+    {
+      "id": "d74YL14Evy2YH3_tSN7JT",
+      "name": "",
+      "value": "#42aaff"
+    },
+    {
+      "id": "9PMzMkKp_dN9f8Ri9zeHd",
+      "name": "",
+      "value": "#52e093"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Предметы/Математический анализ",
+      "color": "SQdKvtJNTJn7U30qagMY2"
+    },
+    {
+      "path": "Предметы/Информатика",
+      "color": "aguDj7bSbttb_ZZAe5N58"
+    },
+    {
+      "path": "Предметы/Алгебра и геометрия",
+      "color": "pI2MQEdwcnvCDrSUJ9Dbg"
+    },
+    {
+      "path": "Предметы/Основы программирования",
+      "color": "d74YL14Evy2YH3_tSN7JT"
+    },
+    {
+      "path": "Предметы/Дискретная математика",
+      "color": "9PMzMkKp_dN9f8Ri9zeHd"
+    }
+  ]
+}
